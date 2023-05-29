@@ -1,0 +1,29 @@
+[{
+  "imageUrl": "https://codeacademy.lt/wp-content/uploads/2023/01/Screenshot-2023-01-13-150320-300x298.png",
+  "title": "Intro: „eBay“ ir „Amazon“ kursai",
+  "format": "",
+  "date": [{
+    "day": "17",
+    "month": "Sau"
+  }]
+},
+{
+  "imageUrl": "",
+  "duration": "7:54",
+  "title": "CodeAcademy Talents",
+  "format": "",
+  "date": [{
+    "day": "10",
+    "month": "Lap"
+  }]
+},
+{
+  "imageUrl": "",
+  "duration": "9:22",
+  "title": "Intro: „Salesforce“ CRM",
+  "format": "Online",
+  "date": [{
+    "day": "27",
+    "month": "Rug"
+  }]
+}]
