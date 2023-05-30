@@ -1,4 +1,5 @@
-import { fetchData, renderNewsList, renderLargeButton} from './functions.js';
+import { fetchData, renderLargeButton } from './functions.js';
+import { renderNewsList } from './news.js';
 
 async function newsListCreator() {
   const mainElement = document.querySelector('main');

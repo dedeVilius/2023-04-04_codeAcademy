@@ -1,4 +1,5 @@
-import { fetchData, renderEventList, renderLargeButton } from './functions.js';
+import { fetchData, renderLargeButton } from './functions.js';
+import { renderEventList } from './events.js';
 
 async function eventListCreator() {
   const asideElement = document.querySelector('aside');

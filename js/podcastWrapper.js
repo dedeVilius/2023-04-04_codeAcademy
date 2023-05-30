@@ -1,4 +1,5 @@
-import { fetchData, renderPodcastList } from './functions.js';
+import { fetchData  } from './functions.js';
+import { renderPodcastList } from './podcast.js';
 
 async function podcastListCreator() {
   const asideElement = document.querySelector('aside');
